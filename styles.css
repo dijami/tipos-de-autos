@@ -1,0 +1,69 @@
+header
+{
+    background-color: rgb(240, 13, 119);
+    text-align: center;
+}
+footer
+{
+    background-color: rgb(11, 171, 219);
+    text-align: center;
+}
+h1
+{
+    color: rgb(8, 0, 0);
+    font-family: monospace;
+    text-align: center;
+    background-color: rgb(20, 188, 230);
+
+}
+p
+{
+    color: rgb(0, 0, 0);
+}
+.grillacontenedora4partes
+{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    
+}
+.grillacontenedora3partes
+{
+    display: grid;
+    grid-template-columns: 35% 30% 35%;
+    
+}
+div.rosa 
+{
+    background-color: rgb(6, 129, 98);
+
+}
+div.lila
+{
+    background-color: rgb(247, 17, 247);
+}
+div.naranja
+{
+     background-color: rgb(14, 115, 197);
+
+}
+div.azul
+{
+
+    background-color: rgb(76, 136, 7);
+}
+h2
+{
+    color: rgb(7, 0, 0);
+    text-align: center;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2:hover
+{
+    color: rgb(0, 230, 77);
+    text-align: center;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
